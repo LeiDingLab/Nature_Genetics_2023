@@ -1,4 +1,4 @@
-# NG_Hiro
+# Nature_Genetics_2023
 
 This repository contains the codes to reproduce the snRNA-seq results and figures in this paper:
 
