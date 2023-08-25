@@ -1,4 +1,5 @@
 # Nature_Genetics_2023
+[![DOI](https://zenodo.org/badge/678196460.svg)](https://zenodo.org/badge/latestdoi/678196460)
 
 This repository contains the codes to reproduce the snRNA-seq results and figures in this paper:
 
